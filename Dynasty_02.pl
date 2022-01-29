@@ -263,9 +263,9 @@ sixth_branch:-greatgreatgrandfather(X,jan_II_dobry),format(' ~w\n',[X]),fail.
 seventh_branch:-greatgreatgreatgrandfather(X,jan_II_dobry),format(' ~w\n',[X]),fail.
 eighth_branch:-greatgreatgreatgreatgrandfather(X,jan_II_dobry),format(' ~w\n',[X]),fail.
 ninth_branch:-greatgreatgreatgreatgreatgrandfather(X,jan_II_dobry),format(' ~w\n',[X]),fail.
-start:- write('On the picture we will see Dynasty of Piastowie kujawscy'),nl,
+start:- write('On the picture we will see Dynasty of Filip VI Walezjusz'),nl,
 	write('At the head of a dynasty is:'),nl,
-    write('Jan III Dobry'),nl,
+    write('Filip VI Walezjusz'),nl,
 	write('The next members of the family is:'),nl,
 	son_karol_de_Valois;
 	write('the next branch in the dynasty is :'),nl,
